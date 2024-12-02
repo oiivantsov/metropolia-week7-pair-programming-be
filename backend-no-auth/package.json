@@ -18,6 +18,8 @@
     "globalTeardown": "./tests/teardown.js"
   },
   "dependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/supertest": "^6.0.2",
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
     "cors": "^2.8.5",
